@@ -1,0 +1,4 @@
+user=alice ip=192.168.1.100 status=200
+user=bob ip=192.168.1.101 status=SERVER_ERR
+user=charlie ip=192.168.1.102 status=200
+user=dave ip=192.168.1.103 status=404
